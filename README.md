@@ -1,4 +1,4 @@
-[![Header](https://github.com/Lejebokaa/Lejebokaa/blob/main/kurapika%20(4).gif)
+[![Header](https://github.com/Lejebokaa/Lejebokaa/blob/main/kurapika%20(4).gif)](https://vk.com/ustalotdvoek)
 
 ## Привет, меня зовут Давид я обучаю Программирование и попутно стараюсь заработать копеечку хочу стать Back-end разработчиком
 
