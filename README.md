@@ -1,7 +1,5 @@
 [![Header](https://github.com/Lejebokaa/Lejebokaa/blob/main/kurapika%20(4).gif)](https://vk.com/ustalotdvoek)
 
-## Привет, меня зовут Давид я обучаю Программирование и попутно стараюсь заработать копеечку хочу стать Back-end разработчиком
-
 ### Мои инструменты и Фреймворки
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
