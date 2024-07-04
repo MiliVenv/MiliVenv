@@ -4,7 +4,7 @@
 ```
 
 
-<div style="display:block;text-align:left"><img align="left" src="https://www.nesabamedia.com/wp-content/uploads/2022/11/EndeavourOS-Logo-2-1360x700.png" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="file:///C:/Users/kats1/Downloads/EndeavourOS-Logo-2-1360x700.png" border="0" style="width:156px;">
 
   ```css
   MiliVenv@GitHub
@@ -15,7 +15,7 @@
   Learning : ["Rust", "Elixir", "Haskell"]
   Intrests: ["Back-end development"]  
   Uptime: 15 Years
-  Tools and Frameworks: ["Django", "Pycharm", "Git", "MySql", "VS Code"])
+  Tools and Frameworks: ["Django", "Pycharm", "Git", "MySql", "VS Code"]
   ```
 </div>
 
