@@ -12,7 +12,6 @@
   Name: MiliVenv
   Distributive: Endeavour
   Languages: ["JavaScript", "Python", "SQL"]
-  Learning : ["Rust", "Elixir", "Haskell"]
   Intrests: ["Back-end development"]  
   Uptime: 15 Years
   Tools and Frameworks: ["Django", "Pycharm", "Git", "MySql", "VS Code"]
