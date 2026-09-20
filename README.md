@@ -4,7 +4,7 @@
 ```
 
 
-<div style="display:block;text-align:left"><img align="left" src="https://i.postimg.cc/8PvjYQdR/Endeavour-OS-Logo-2-1360x700.png" width="460" border="0">
+<div style="display:block;text-align:left"><img align="left" src="[https://i.postimg.cc/8PvjYQdR/Endeavour-OS-Logo-2-1360x700.png](https://i.postimg.cc/HW8kqV9X/Apple-logo-black.jpg" width="460" border="0">
 
   ```css
   MiliVenv@GitHub
@@ -26,7 +26,6 @@
 <br />
 <p align="center">
   <samp>
-    $  <a href="https://www.youtube.com/channel/UCP1loyRHlwGdrWivNVzeY7g" target="_blank">youtube</a> .
-       <a href="https://t.me/MiliVenv" target="_blank">telegram</a> $
+    $ <a href="https://t.me/davids0on" target="_blank">telegram</a> $
   </samp>
 </p>
