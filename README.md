@@ -4,7 +4,7 @@
 ```
 
 
-<div style="display:block;text-align:left"><img align="left" src="https://i.postimg.cc/8PvjYQdR/Endeavour-OS-Logo-2-1360x700.png" width="160" border="0">
+<div style="display:block;text-align:left"><img align="left" src="https://i.postimg.cc/8PvjYQdR/Endeavour-OS-Logo-2-1360x700.png" width="260" border="0">
 
   ```css
   MiliVenv@GitHub
