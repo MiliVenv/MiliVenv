@@ -4,7 +4,7 @@
 ```
 
 
-<div style="display:block;text-align:left"><img align="left" src="https://i.postimg.cc/8PvjYQdR/Endeavour-OS-Logo-2-1360x700.png" width="260" border="0">
+<div style="display:block;text-align:left"><img align="left" src="https://i.postimg.cc/8PvjYQdR/Endeavour-OS-Logo-2-1360x700.png" width="460" border="0">
 
   ```css
   MiliVenv@GitHub
@@ -14,7 +14,10 @@
   Languages: ["Java", "Python", "JavaScript", "C", "C++", "C#"]
   Direction: ["BackEnd Development"]  
   Uptime: 4-5 Years
-  Tools and Frameworks: ["Git", "PostgreSQL", "VS Code", "Postman", "Bash", "Spring", "MongoDB", "Kafka", "Docker", "Kubernetes"]
+  Tools and Frameworks: ["Git", "PostgreSQL", "VS Code",
+                         "Postman", "Bash", "Spring",
+                         "MongoDB", "Kafka", "Docker",
+                         "Kubernetes"]
   ```
 </div>
 
