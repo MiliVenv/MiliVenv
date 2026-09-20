@@ -4,18 +4,17 @@
 ```
 
 
-<div style="display:block;text-align:left"><img align="left" src="https://i.postimg.cc/8PvjYQdR/Endeavour-OS-Logo-2-1360x700.png" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="https://i.postimg.cc/8PvjYQdR/Endeavour-OS-Logo-2-1360x700.png" border="0" style="">
 
   ```css
   MiliVenv@GitHub
   -----------------
-  Name: MiliVenv
-  Distributive: Endeavour
-  Languages: ["JavaScript", "Python", "SQL"]
-  Learning : ["Rust", "Elixir", "Haskell"]
-  Intrests: ["Back-end development"]  
-  Uptime: 15 Years
-  Tools and Frameworks: ["Django", "Pycharm", "Git", "MySql", "VS Code"]
+  Name: Sallergy
+  OS: MacOS
+  Languages: ["Java", "Python", "JavaScript", "C", "C++", "C#"]
+  Direction: ["BackEnd Development"]  
+  Uptime: 4-5 Years
+  Tools and Frameworks: ["Git", "PostgreSQL", "VS Code", "Postman", "Bash", "Spring", "MongoDB", "Kafka", "Docker", "Kubernetes"]
   ```
 </div>
 
