@@ -1,10 +1,10 @@
 ```css
-┌[MiliVenv@git]-(~)
+┌[Sallergy@git]-(~)
 └> neofetch
 ```
 
 
-<div style="display:block;text-align:left"><img align="left" src="https://i.postimg.cc/8PvjYQdR/Endeavour-OS-Logo-2-1360x700.png" border="0" style="">
+<div style="display:block;text-align:left"><img align="left" src="https://i.postimg.cc/8PvjYQdR/Endeavour-OS-Logo-2-1360x700.png" width="160" border="0">
 
   ```css
   MiliVenv@GitHub
