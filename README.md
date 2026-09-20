@@ -4,7 +4,7 @@
 ```
 
 
-<div style="display:block;text-align:left"><img align="left" src="https://i.postimg.cc/T3FkHNdc/Finder-Icon-mac-OS-Big-Sur.png" width="250" height="250" border="0">
+<div style="display:block;text-align:left"><img align="left" src="https://i.postimg.cc/T3FkHNdc/Finder-Icon-mac-OS-Big-Sur.png" width="250" height="150" border="0">
 
   ```css
   MiliVenv@GitHub
