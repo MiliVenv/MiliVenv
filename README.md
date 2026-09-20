@@ -1,24 +1,30 @@
-<div align="center">
-  
-  <img src="https://i.postimg.cc/8PvjYQdR/Endeavour-OS-Logo-2-1360x700.png" width="160" alt="EndeavourOS"/>
+```css
+┌[MiliVenv@git]-(~)
+└> neofetch
+```
 
-  <h2>MiliVenv</h2>
-  <p><i>Back-end developer in progress</i></p>
 
+<div style="display:block;text-align:left"><img align="left" src="https://i.postimg.cc/8PvjYQdR/Endeavour-OS-Logo-2-1360x700.png" border="0" style="width:156px;">
+
+  ```css
+  MiliVenv@GitHub
+  -----------------
+  Name: MiliVenv
+  Distributive: Endeavour
+  Languages: ["JavaScript", "Python", "SQL"]
+  Learning : ["Rust", "Elixir", "Haskell"]
+  Intrests: ["Back-end development"]  
+  Uptime: 15 Years
+  Tools and Frameworks: ["Django", "Pycharm", "Git", "MySql", "VS Code"]
+  ```
 </div>
 
-```bash
-┌[MiliVenv@mac]─(~)
-└> neofetch
-Name:                 MiliVenv
-OS:                   EndeavourOS (Arch-based)
-Shell:                zsh
-Languages:            Java, JavaScript, Python, SQL
-Focus:                Back-end Development
-Currently learning:   Java Core → Spring
-Tools:                IntelliJ IDEA, VS Code, Git, Docker, MySQL
-Uptime:               15 years of curiosity
-$ cat socials.txt
-Building things that work quietly and reliably.
 
-```
+
+<br />
+<p align="center">
+  <samp>
+    $  <a href="https://www.youtube.com/channel/UCP1loyRHlwGdrWivNVzeY7g" target="_blank">youtube</a> .
+       <a href="https://t.me/MiliVenv" target="_blank">telegram</a> $
+  </samp>
+</p>
